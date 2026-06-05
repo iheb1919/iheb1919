@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Front-End Engineer** with 5+ years building production-grade React and TypeScript applications across **EdTech**, **HR-tech**, and **AI-powered SaaS** products.
+I'm a **Front-End Engineer** with 5+ years building production-grade React and TypeScript applications across **EdTech**, **HR-tech**, and **AI-powered SaaS** products.
 
 I specialise in:
 - 🏗️ **Scalable component architecture** with React 18 + TypeScript
