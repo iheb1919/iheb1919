@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=160&section=header&text=Mejri%20Iheb&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20Front-End%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descAlignY=58&descSize=16&descColor=ffcccc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=160&section=header&text=Mejri%20Iheb&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descAlignY=58&descSize=16&descColor=ffcccc" width="100%"/>
 
 <!-- BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-iheb--mejri.vercel.app-C0392B?style=flat-square&logo=vercel&logoColor=white)](https://iheb-mejri.vercel.app/)
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Front-End Engineer** with 5+ years building production-grade React and TypeScript applications across **EdTech**, **HR-tech**, and **AI-powered SaaS** products.
+I'm a **Front-End Engineer** with 3+ years building production-grade React and TypeScript applications across **EdTech**, **HR-tech**, and **AI-powered SaaS** products.
 
 I specialise in:
 - 🏗️ **Scalable component architecture** with React 18 + TypeScript
@@ -64,7 +64,7 @@ I specialise in:
 
 ## 💼 Professional Experience
 
-### 🏢 Wimbee — Senior Front-End Engineer *(Dec 2025 – Present)*
+### 🏢 Wimbee —  Front-End Engineer *(Dec 2025 – Present)*
 **GERESO · Automated Assessment & Learning Management System**
 
 - Architected a **WCAG 2.1-compliant dashboard** in React + Tailwind CSS v4 with real-time student performance visualisation
